@@ -1,6 +1,6 @@
 <?php
 /**
- * Template Name: Demo page
+ * Template Name: StefanDanutj
  * @package Serene
  * @since Serene 1.0
  */
